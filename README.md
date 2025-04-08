@@ -38,6 +38,12 @@
         </td>
     </tr>
     <tr>
+        <td>Server</td>
+        <td>
+            <img src="https://img.shields.io/badge/NCP-007396?style=for-the-badge&logo=NCP&logoColor=green"/>
+        </td>
+    </tr>
+    <tr>
         <td>Collaboration Tool</td>
         <td>
             <img src="https://img.shields.io/badge/Notion-999999?style=for-the-badge&logo=Notion&logoColor=block"/>
