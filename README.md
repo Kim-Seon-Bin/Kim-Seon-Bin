@@ -7,9 +7,9 @@
 - https://simpleicons.org/?q=api
   
 ## 👀 About Me
-  #### :raising_hand:
-  #### :fire:
-  #### :mortar_board:
+  #### :raising_hand: I was trained as a language intelligence-based developer.
+  #### :fire: I aim to become a Database and Back-end developer.
+  #### :mortar_board: Department of Electronic Engineering, Chosun University
   <br/>
   <br/>
   
@@ -27,7 +27,7 @@
         <td>IDE</td>
         <td>
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Colab-ffbe76?style=for-the-badge&logo=Colab&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/">
             <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
         </td>
     </tr>
