@@ -7,6 +7,7 @@
   #### :mortar_board: Department of Electronic Engineering, Chosun University
   #### :iphone: How to reach me
   ###### :email: email : rlatjsqls69@gmail.com
+  ###### :email: email : rlatjsqls69@naver.com
   <br/>
   <br/>
   
