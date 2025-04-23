@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Good%20to%20see%20you)
-
-이모지
-- https://gist.github.com/rxaviers/7360908
-
-배지
-- https://simpleicons.org/?q=api
   
 ## 👀 About Me
-  #### :raising_hand: I was trained as a language intelligence-based developer.
+  #### :four_leaf_clover: I'm currently learning Java, Python, SQL and Linux.
   #### :fire: I aim to become a Database and Back-end developer.
+  #### :raising_hand: I was trained as a language intelligence-based developer.
   #### :mortar_board: Department of Electronic Engineering, Chosun University
+  #### :iphone: How to reach me
+  ###### :email: email : rlatjsqls69@gmail.com
   <br/>
   <br/>
   
@@ -58,7 +55,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Seon-Bin)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjsqls69)](https://solved.ac/rlatjsqls69/)
+
 <!--
+이모지
+- https://gist.github.com/rxaviers/7360908
+
+배지
+- https://simpleicons.org/?q=api
+
 **Kim-Seon-Bin/Kim-Seon-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
